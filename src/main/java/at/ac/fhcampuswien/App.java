@@ -8,6 +8,7 @@ import java.util.Scanner;
 
 public class App {
 
+
     public static void oneMonthCalendar (int numberDay, int startingDay){
         int line;
         int row = 0;
